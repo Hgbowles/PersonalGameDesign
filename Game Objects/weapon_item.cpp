@@ -1,3 +1,7 @@
+#include <string>
+
+using std::string;
+
 class Weapon {
    public:
       int damage;
